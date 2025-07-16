@@ -4,7 +4,7 @@ Hello, I'm Ash. I write code for fun, and for my job, and I just have one Github
 * Most of my code isn't commented
 * I often edit code on, and push from, a production server
 
-Frankly, I'm an awful developer. But my code runs, and that's the main thing.
+Frankly, I'm an awful software developer. But my code (mostly) runs, and that's the main thing.
 
 <!--
 **ads04r/ads04r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

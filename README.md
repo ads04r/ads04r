@@ -1,10 +1,6 @@
 Hello, I'm Ash. I write code for fun, and for my job, and I just have one Github account for both, so please don't take anything in here seriously.
 
-* I generally don't write unit tests
-* Most of my code isn't commented
-* I often edit code on, and push from, a production server
-
-Frankly, I'm an awful software developer. But my code (mostly) runs, which is all that really matters.
+I generally don't write unit tests, most of my code isn't commented and I often edit code on, and push from, a production server. Frankly, I'm an awful software developer. But my code (mostly) runs, so I guess that makes me a pretty good hacker.
 
 <!--
 **ads04r/ads04r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
